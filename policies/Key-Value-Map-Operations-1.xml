@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations continueOnError="false" enabled="true" name="Key-Value-Map-Operations-1" mapIdentifier="tempokvm">
+  <DisplayName>Key Value Map Operations-1</DisplayName>
+  <Properties/>
+  <Put override="true">
+    <Key>
+      <Parameter ref="request.queryparam.kvname"/>
+    </Key>
+    <Value ref="request.queryparam.kvvalue"/>
+  </Put>
+  <Scope>environment</Scope>
+</KeyValueMapOperations>

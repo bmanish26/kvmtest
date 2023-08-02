@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="manish">
+  <DisplayName/>
+  <Description/>
+  <CreatedAt>1690941739466</CreatedAt>
+  <LastModifiedAt>1690941739466</LastModifiedAt>
+  <BasePaths>/manish</BasePaths>
+  <Policies>
+    <Policy>Key-Value-Map-Operations-1</Policy>
+  </Policies>
+  <ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+  </ProxyEndpoints>
+  <TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+  </TargetEndpoints>
+</APIProxy>
